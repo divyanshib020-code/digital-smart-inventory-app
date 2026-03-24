@@ -86,5 +86,4 @@ Better UI enhancements
 
 Divyanshi Bhandari
 BCA student
-BCA Student
 
